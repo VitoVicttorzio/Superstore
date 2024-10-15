@@ -1,5 +1,5 @@
 
-# Superstore Sales Analysis
+# Superstore Sales Analysis with Python
 <img src="Superstore.jpg" width="900" height="600">
 
 ![Static Badge](https://img.shields.io/badge/OS-Windows-b?style=flat&logo=git%20for%20windows&logoColor=blue&logoSize=20&labelColor=grey)
